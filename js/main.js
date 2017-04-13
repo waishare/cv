@@ -42,8 +42,8 @@ jQuery(document).ready(function($) {
 jQuery(document).ready(function($) {
 	"use strict";
 	$('.skills-info').appear(function() {
-	$('.skill1').css('width', '71%');
-	$('.skill2').css('width', '85%');
+	$('.skill1').css('width', '85%');
+	$('.skill2').css('width', '80%');
 	$('.skill3').css('width', '76%');
 	$('.skill4').css('width', '53%');
 	$('.skill5').css('width', '69%');
